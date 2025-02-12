@@ -22,7 +22,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-stitou&layout=compact&theme=radical)  
 
 ---
+## 🏆 GitHub Trophies  
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ibrahim-stitou&theme=radical&no-frame=true&margin-w=15)  
 
 ---
 
