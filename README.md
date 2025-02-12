@@ -3,7 +3,6 @@
 🚀 Full-stack Developer
 
 💡 Passionate about building modern web applications using **React, Next.js, and Laravel**.  
-🎯 Currently working on **StarCars** - a car rental platform.   
 📫 Contact me: [stitou.brahim.stitou@gmail.com](mailto:stitou.brahim.stitou@gmail.com)  
 
 ---
