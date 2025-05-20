@@ -1,7 +1,6 @@
 # Hi there, I'm Ibrahim! 👋  
 
 🚀 Full-stack Developer
-
 💡 Passionate about building modern web applications using **React, Next.js, and Laravel**.  
 📫 Contact me: [stitou.brahim.stitou@gmail.com](mailto:stitou.brahim.stitou@gmail.com)  
 
