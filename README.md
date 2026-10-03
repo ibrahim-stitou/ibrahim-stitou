@@ -33,7 +33,6 @@ location    : Tangier, Morocco 🇲🇦
 school      : ENSI Tanger — Génie Informatique (AI & Data)
 experience  : 2 years · multiple platforms in production
 availability: February 2027 — PFE Internship
-open_to     : DevOps · Full-Stack · AI — France / GCC / Remote
 ```
 
 <br clear="right"/>
@@ -59,14 +58,4 @@ MySQL · PostgreSQL         Mistral AI · FastAPI       Prometheus · Grafana
 
 
 
-<div align="center">
-
-| | Repository | Stack | Description |
-|---|:---|:---:|:---|
-| 🔵 | [logiflow-backend](https://github.com/ibrahim-stitou/logiflow-backend) | Java · Spring Boot | Modular monolith, hexagonal architecture |
-| 🟣 | [logiflow-ai-service](https://github.com/ibrahim-stitou/logiflow-ai-service) | Python · Flask | 4 LLM agents + RAG + predictive maintenance |
-| ⚫ | [logiflow-frontend](https://github.com/ibrahim-stitou/logiflow-frontend) | Next.js · TypeScript | Fleet dashboard and KPI back-office |
-| 🟠 | [logiflow-infra](https://github.com/ibrahim-stitou/logiflow-infra) | Terraform · HCL | Infrastructure as Code on AWS |
-
-</div>
 
