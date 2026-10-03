@@ -9,7 +9,6 @@
 ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝    ╚══════╝   ╚═╝   ╚═╝   ╚═╝    ╚═════╝  ╚═════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Developer+%7C+DevOps+Engineer+%7C+AI+Builder;⚙️+Building+systems+that+actually+ship+to+production;🤖+LLM+Agents+·+RAG+Pipelines+·+AIOps;☁️+AWS+Certified+·+Kubernetes+·+Terraform+·+Jenkins;📍+Tangier+🇲🇦+→+Open+to+Europe+%26+GCC" alt="Typing" />
 
 <br/>
 
